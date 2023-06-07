@@ -1,4 +1,4 @@
-## Olá! Meu nome é Pedro e esse é meu perfil no GitHub!
+## Olá! Meu nome é Pedro, sou Analista de Dados e esse é meu perfil no GitHub!
 ![3HeZ (1)](https://github.com/pedro-nog-9/pedro-nog-9/assets/127139232/f778ed11-c8d2-499a-b179-aa992d5b76cf)
 
 - 🌱 Atualmente eu estou aprendendo Machine Learning e Redes Neurais
